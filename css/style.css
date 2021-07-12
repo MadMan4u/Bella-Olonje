@@ -516,7 +516,7 @@ a {
     .app__end {
         margin-top: 60px;
     }
-
+    
     .step__title-main {
         margin-top: -700px;
     }
@@ -527,5 +527,8 @@ a {
     .download__descripton {
         max-width: 350px;
     }
-
+    
+    .step__content-item img {
+    margin-left: -90px;
+}
 }
